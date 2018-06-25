@@ -1,0 +1,22 @@
+[
+    {
+        "name": "html",
+        "niveau": 2
+    },
+    {
+        "name": "css",
+        "niveau": 4
+    },
+    {
+        "name": "js",
+        "niveau": 1
+    },
+    {
+        "name": "python",
+        "niveau": 9
+    },
+    {
+        "name": "c++",
+        "niveau": 2
+    }
+]
